@@ -20,15 +20,15 @@ const useStyles = makeStyles(theme => ({
 }))
 
 export async function getStaticProps() {
-  const baseURI = projects.baseURI
-  const repos = projects.repositories
+  const baseURI = projects?.baseURI
+  const repos = projects?.repositories
   const reqInit = {
     headers: { 
       'Authorization': `token ${process.env.PAT}`
     }
   }
   const fullRepoData = await Promise.allSettled(
-    repos.map(
+    repos?.map(
       async name => {
         const repo = await fetch(baseURI + name, reqInit).then(res => res.json());
         const langs = await fetch(baseURI + name + "/languages", reqInit).then(res => res.json())
