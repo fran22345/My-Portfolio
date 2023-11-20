@@ -51,14 +51,9 @@
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/fran22345/",
         "repositories": [
-            "Portfolio",
-            "Genrealize",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "Mail-em",
-            "JAutoLayout"
+            "Pf-henry"
         ]
     },
     "experience": {
