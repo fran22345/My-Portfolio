@@ -1,34 +1,25 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Francisco Borges",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hola, Soy Francisco Borges",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
-            "Just getting started 📈"
+            "Full-stack developer"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "Francisco-Borges",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/francisco-borges-95a3941a2/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "Francisco",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/fran22345"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:fran22345@gmail.com,borgesfrancisco162@gmail.com"
             }
         ]
     },
@@ -36,48 +27,27 @@
         "Languages known": [
             "TypeScript",
             "JavaScript",
-            "Java",
-            "C++",
             "Python",
             "HTML5",
             "CSS3",
-            "Kotlin",
-            "Dart"
+            "Next.js"
+
         ],
         "Frontend": [
             "React",
             "Redux",
             "Next.js",
-            "Gatsby",
-            "Netlify",
-            "Vercel",
-            "Material-UI",
-            "antdesign",
-            "Bootstrap"
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "TailWind"
         ],
         "Backend, Database and Cloud": [
             "Node.js",
             "Express",
-            "FastAPI",
-            "MongoDB",
-            "MySQL",
             "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
             "Heroku",
-            "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
+            "Vercel"
         ]
     },
     "projects": {
@@ -94,59 +64,17 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
+                "organization": "Frelance",
                 "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            },
-            {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://www.nonceblox.com/ton3.png"
+                "startDate": "2021-08-01",
+                "endDate": "Actualidad",
+                "country": "Argentina"
             }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
-            }
+
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
+        "description": "Full Stack Developer con background en trabajo grupales que me ayudaron a trabajar en equipo, desarrollar mis habilidades blandas y experimentar con tecnologías de desarrollo web en las que me he especializado en  Front-end, Back-end y en Base de Datos. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks, TailWind, Next.js, Redux, Toolkit y Typescript. Experiencia en  desarrollo de Front End y Back End / arquitectura de datos. Con Resolución de problemas, Autoconfianza, Trabajo en equipo, Empatía, Comunicación y Autonomía.  Nivel de Inglés: Intermedian, Conversacional: Intermedian.",
         "picture": "/profile.JPG",
         "social": []
     },
